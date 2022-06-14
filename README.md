@@ -1,8 +1,8 @@
 ## Hello! Çava Bien? Sou Caio Rubem Saboia
 <div align="center">
   <a href="https://github.com/caiosaboia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiosaboia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosaboia&layout=compact&langs_count=7&theme=radical"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=caiosaboia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosaboia&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
