@@ -8,7 +8,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" width="400" alt="caio-gig" src="https://cdn.discordapp.com/attachments/315460121880821760/986067733659664404/Tanjirou.gif">
+  <img align="right" width="400" height="30" alt="caio-gig" src="caiosaboia/Tanjirou.gif">
 </div>
   
   ##
