@@ -23,7 +23,6 @@
   <a href = "mailto:caiorubems@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-rubem-saboia-6170a6242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-   ![Snake animation](https://github.com/caiosaboia/caiosaboia/blob/output/github-contribution-grid-snake.svg)
   ![Tanjirou](https://user-images.githubusercontent.com/103676601/174311772-dabfd032-a285-46f2-9ad9-a82f61cbda3b.gif)
   
 </div>
