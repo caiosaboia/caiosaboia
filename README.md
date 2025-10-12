@@ -3,13 +3,6 @@
   
   ![Tanjirou](https://user-images.githubusercontent.com/103676601/174311772-dabfd032-a285-46f2-9ad9-a82f61cbda3b.gif)
 </div>
-
-
-<div align="center">
-  <a href="https://github.com/caiosaboia">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/?username=caiosaboia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosaboia&layout=compact&theme=dracula"/>
-</div>
   
   ### - Linguagens
 <div style="display: inline_block"><br>
@@ -27,3 +20,8 @@
   
 </div>
 
+<div align="center">
+  <a href="https://github.com/caiosaboia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=caiosaboia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosaboia&layout=compact&theme=dracula"/>
+</div>
