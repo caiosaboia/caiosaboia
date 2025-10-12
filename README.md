@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/caiosaboia">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=caiosaboia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosaboia&layout=compact&langs_count=7&hide_progress=true&stats_format=percentages&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosaboia&layout=normal&langs_count=7&hide_progress=true&stats_format=percentages&theme=dracula"/>
 </div>
   
   ### Linguagens
